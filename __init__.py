@@ -54,7 +54,7 @@ class SendImageToAiPhotos :
             file = f"{filename_with_batch_num}_{counter:05}_.png"
             img.save(os.path.join(full_output_folder, file), pnginfo=metadata, compress_level=self.compress_level)
             files = {'storefile': (file, open(os.path.join(full_output_folder, file), "rb"))}
-            response= requests.post("http://m.api.aiphotos.biz/api/photo/upload/"+token,files=files)
+            response= requests.post("https://m.api.aiphotos.biz/api/photo/upload/"+token,files=files)
             print(response.text);
             results.append({
                 "filename": file,
