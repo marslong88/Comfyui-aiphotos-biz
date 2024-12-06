@@ -49,3 +49,9 @@
 ![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo4.png)
 ![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo5.png)
 ![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo7.png)
+
+
+## 合作
+1. 平台支持SaaS交付与私有化部署
+2. 联系微信：marsatwechat
+
