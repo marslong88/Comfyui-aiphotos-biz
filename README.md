@@ -1,12 +1,12 @@
 # ComfyUI-AIPHOTOS-BIZ
 
-一个基于ComfyUI的AI照片分发系统。图片商业变现。
+一个基于ComfyUI的AI照片分发系统。找到需要客户，并实现变现。
 
-## 解决的问题
+## 系统价值
 
-1. 图片商业变现
-2. 图片版权保护
-3. 图片版权溯源
+1. 让顾客挑选自己喜欢的图片，省去沟通成本，提高转化率。
+2. comfyui一键发布到Aiphotos，无需手动操作。
+3. 客户看到到的是低分辨率水印图片，付费下载高清无水印图片。
 
 ## ComfyUI-AIPHOTOS-BIZ节点安装
 
@@ -23,21 +23,29 @@
     cd custom_nodes
     git clone https://github.com/marslong88/Comfyui-aiphotos-biz.git
     ```
-2. 从 [m.aiphotos.biz](https://m.aiphotos.biz) 获取您的 BFL API 密钥
 
-4. 添加您的 API 密钥
 
 ## 使用方法
 
+1. 添加节点，可搜索Send image To Aiphotos，节点实现了保存图片到本地，同时发布到Aiphotos
+
+![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo6.png)
+
+2. 节点实例
+
+![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo1.png)
 
 
-## 工作流程
+2. 从 [m.aiphotos.biz](https://m.aiphotos.biz) 获取您图片发布的密钥
 
-在 `workflow` 文件夹中已添加示例工作流程。
+![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo3.png)
 
-## 示例
+3. 在节点Send image To Aiphotos的token中输入复制的秘钥
 
-![图片](https://github.com/user-attachments/assets/966427cb-af20-4e59-a59f-6fc507fabdd2)
-![图片](https://github.com/user-attachments/assets/8e48b76f-2717-4119-b7dc-423b86fc1887)
-![图片](https://github.com/user-attachments/assets/0e91caba-7e1a-454d-b91b-29663d64d6d8)
 
+## 图片选择与销售示例
+
+![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo2.png)
+![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo4.png)
+![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo5.png)
+![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo7.png)
