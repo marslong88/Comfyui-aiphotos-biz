@@ -29,26 +29,26 @@
 
 1. 添加节点，可搜索Send image To Aiphotos，节点实现了保存图片到本地，同时发布到Aiphotos
 
-![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo6.png)
+![图片](https://m.api.aiphotos.biz/f/demo6.png)
 
 2. 节点实例
 
-![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo1.png)
+![图片](https://m.api.aiphotos.biz/f/demo1.png)
 
 
 2. 从 [m.aiphotos.biz](https://m.aiphotos.biz) 获取您图片发布的密钥
 
-![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo3.png)
+![图片](https://m.api.aiphotos.biz/f/demo3.png)
 
 3. 在节点Send image To Aiphotos的token中输入复制的秘钥
 
 
 ## 图片选择与销售示例
 
-![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo2.png)
-![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo4.png)
-![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo5.png)
-![图片](https://github.com/marslong88/Comfyui-aiphotos-biz/blob/main/demo7.png)
+![图片](https://m.api.aiphotos.biz/f/demo2.png)
+![图片](https://m.api.aiphotos.biz/f/demo4.png)
+![图片](https://m.api.aiphotos.biz/f/demo5.png)
+![图片](https://m.api.aiphotos.biz/f/demo7.png)
 
 
 ## 合作
